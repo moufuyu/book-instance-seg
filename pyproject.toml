@@ -1,0 +1,31 @@
+[tool.poetry]
+name = "code test"
+version = "0.1.0"
+description = ""
+authors = ["moufuyu"]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+numpy = "^1.22.3"
+pandas = "1.3.5"
+pillow = "^10.0.0"
+ultralytics = "^8.0.154"
+opencv-python = "4.6.0.66"
+torch = {version = "^2.0.1+cu118", source = "torch_cu118"}
+torchvision = {version = "^0.15.2+cu118", source = "torch_cu118"}
+torchaudio = {version = "^2.0.2+cu118", source = "torch_cu118"}
+wandb = "^0.15.8"
+gql = {git = "https://github.com/wandb/wandb", rev = "feat/ultralytics"}
+
+[tool.poetry.dev-dependencies]
+pytest = "^5.2"
+
+
+[[tool.poetry.source]]
+name = "torch_cu118"
+url = "https://download.pytorch.org/whl/cu118"
+priority = "explicit"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"

@@ -1,0 +1,192 @@
+{
+    "os": "Linux-5.15.0-47-generic-x86_64-with-glibc2.36",
+    "python": "3.11.4",
+    "heartbeatAt": "2023-08-14T14:06:09.367674",
+    "startedAt": "2023-08-14T14:06:08.411607",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "/home/book_detection_app/src/main.py",
+    "codePathLocal": "main.py",
+    "codePath": "main.py",
+    "host": "fc1c9001ca72",
+    "username": "root",
+    "executable": "/usr/local/bin/python",
+    "cpu_count": 16,
+    "cpu_count_logical": 32,
+    "cpu_freq": {
+        "current": 1768.75021875,
+        "min": 800.0,
+        "max": 3000.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 1800.0,
+            "min": 800.0,
+            "max": 3000.0
+        },
+        {
+            "current": 1800.0,
+            "min": 800.0,
+            "max": 3000.0
+        },
+        {
+            "current": 1800.0,
+            "min": 800.0,
+            "max": 3000.0
+        },
+        {
+            "current": 1800.0,
+            "min": 800.0,
+            "max": 3000.0
+        },
+        {
+            "current": 1800.0,
+            "min": 800.0,
+            "max": 3000.0
+        },
+        {
+            "current": 1800.0,
+            "min": 800.0,
+            "max": 3000.0
+        },
+        {
+            "current": 1800.0,
+            "min": 800.0,
+            "max": 3000.0
+        },
+        {
+            "current": 1800.0,
+            "min": 800.0,
+            "max": 3000.0
+        },
+        {
+            "current": 1800.0,
+            "min": 800.0,
+            "max": 3000.0
+        },
+        {
+            "current": 1800.0,
+            "min": 800.0,
+            "max": 3000.0
+        },
+        {
+            "current": 1800.0,
+            "min": 800.0,
+            "max": 3000.0
+        },
+        {
+            "current": 1800.0,
+            "min": 800.0,
+            "max": 3000.0
+        },
+        {
+            "current": 1800.0,
+            "min": 800.0,
+            "max": 3000.0
+        },
+        {
+            "current": 1800.0,
+            "min": 800.0,
+            "max": 3000.0
+        },
+        {
+            "current": 1800.0,
+            "min": 800.0,
+            "max": 3000.0
+        },
+        {
+            "current": 1800.0,
+            "min": 800.0,
+            "max": 3000.0
+        },
+        {
+            "current": 1800.0,
+            "min": 800.0,
+            "max": 3000.0
+        },
+        {
+            "current": 1800.0,
+            "min": 800.0,
+            "max": 3000.0
+        },
+        {
+            "current": 1800.0,
+            "min": 800.0,
+            "max": 3000.0
+        },
+        {
+            "current": 1800.0,
+            "min": 800.0,
+            "max": 3000.0
+        },
+        {
+            "current": 1800.0,
+            "min": 800.0,
+            "max": 3000.0
+        },
+        {
+            "current": 1800.0,
+            "min": 800.0,
+            "max": 3000.0
+        },
+        {
+            "current": 1800.0,
+            "min": 800.0,
+            "max": 3000.0
+        },
+        {
+            "current": 1800.0,
+            "min": 800.0,
+            "max": 3000.0
+        },
+        {
+            "current": 1800.0,
+            "min": 800.0,
+            "max": 3000.0
+        },
+        {
+            "current": 1800.0,
+            "min": 800.0,
+            "max": 3000.0
+        },
+        {
+            "current": 1800.0,
+            "min": 800.0,
+            "max": 3000.0
+        },
+        {
+            "current": 1379.987,
+            "min": 800.0,
+            "max": 3000.0
+        },
+        {
+            "current": 1800.0,
+            "min": 800.0,
+            "max": 3000.0
+        },
+        {
+            "current": 1800.0,
+            "min": 800.0,
+            "max": 3000.0
+        },
+        {
+            "current": 1800.0,
+            "min": 800.0,
+            "max": 3000.0
+        },
+        {
+            "current": 1800.0,
+            "min": 800.0,
+            "max": 3000.0
+        }
+    ],
+    "disk": {
+        "total": 1832.2072448730469,
+        "used": 1126.3157081604004
+    },
+    "memory": {
+        "total": 93.11492919921875
+    }
+}

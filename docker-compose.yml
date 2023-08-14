@@ -1,0 +1,11 @@
+version: "3"
+services:
+  app:
+    container_name: "book-detection-app-dev"
+    build:
+      context: .
+      dockerfile: ./Dockerfile
+    image: book-detection-app-dev
+    volumes: 
+        - $PWD:/home/book_detection_app
+    tty: true
